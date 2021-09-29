@@ -34,7 +34,7 @@ tmp <- tmp |>
 
 # intel website to collect spec sheets -------------------
 
-# manual download is more practical
+# download:
 # https://ark.intel.com/content/www/us/en/ark.html#@PanelLabel595
 
 # import spreadsheets
